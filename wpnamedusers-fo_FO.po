@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wpnamedusers\n"
+"POT-Creation-Date: 2009-01-02 18:09+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andrias Sundskarð\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wpNamedUsers.php:81
+#: wpNamedUsers.php:312
+msgid "wpNamedUsers permissions"
+msgstr "wpnamedusers rættindi"
+
+#: wpNamedUsers.php:82
+#: wpNamedUsers.php:469
+msgid "wpNamedUsers groups"
+msgstr "wpnamedusers bólkar"
+
+#: wpNamedUsers.php:85
+#: wpNamedUsers.php:86
+msgid "wpNamedUsers - Users"
+msgstr "wpNamedUsers - Brúkarar"
+
+#: wpNamedUsers.php:87
+#: wpNamedUsers.php:88
+msgid "wpNamedUsers - Groups"
+msgstr "wpNamedUsers - Bólkar"
+
+#: wpNamedUsers.php:182
+msgid "Permissions set."
+msgstr "Rættindi eru goymd."
+
+#: wpNamedUsers.php:281
+msgid "Permissions cleared."
+msgstr "Rættindi eru strikað."
+
+#: wpNamedUsers.php:298
+msgid "Permissions copied."
+msgstr "Rættindi eru margfaldað."
+
+#: wpNamedUsers.php:313
+msgid "Set / Clear permissions"
+msgstr "Goym / Strikað rættindi"
+
+#: wpNamedUsers.php:316
+msgid "Posts"
+msgstr "Greinar"
+
+#: wpNamedUsers.php:317
+msgid "Pages"
+msgstr "Síður"
+
+#: wpNamedUsers.php:318
+#: wpNamedUsers.php:486
+msgid "Users"
+msgstr "Brúkarar"
+
+#: wpNamedUsers.php:318
+#: wpNamedUsers.php:485
+msgid "Groups"
+msgstr "Bólkar"
+
+#: wpNamedUsers.php:369
+msgid "You can only set / clear permissions on posts / pages that you have the right to edit. If you want to clear all permissions for a specific user, you can login as administrator, select the user and click \"Clear permissions\"."
+msgstr "Tú kanst bara goyma / strikað rættindi á greinum / síðum, sum tú hevur rættindi til at rættað. Um tú vilt strikað øll rættindi hjá einum ávísum brúkara, skalt tú logga á sum ein administrator, velja brúkaran í lístanum og trýsta á \"Strikað rættindi\"."
+
+#: wpNamedUsers.php:371
+msgid "Set permissions"
+msgstr "Goym rættindi"
+
+#: wpNamedUsers.php:372
+msgid "Clear permissions"
+msgstr "Strikað rættindi"
+
+#: wpNamedUsers.php:375
+#: wpNamedUsers.php:409
+msgid "Copy permissions"
+msgstr "Marfaldað rættindi"
+
+#: wpNamedUsers.php:378
+msgid "Source user"
+msgstr "Frá brúkara"
+
+#: wpNamedUsers.php:379
+msgid "Target user"
+msgstr "Til brúkara"
+
+#: wpNamedUsers.php:428
+msgid "Group created."
+msgstr "Bólkurin er gjørdur."
+
+#: wpNamedUsers.php:449
+msgid "Group members updated."
+msgstr "Bólkalimir eru dagførdir."
+
+#: wpNamedUsers.php:459
+msgid "Group deleted."
+msgstr "Bólkurin er strikaður."
+
+#: wpNamedUsers.php:470
+#: wpNamedUsers.php:478
+msgid "Create group"
+msgstr "Ger bólk"
+
+#: wpNamedUsers.php:473
+msgid "Group name"
+msgstr "Bólkanavn"
+
+#: wpNamedUsers.php:480
+msgid "Manage groups"
+msgstr "Stýr bólkum"
+
+#: wpNamedUsers.php:481
+msgid "To assign users to a group, select the group in the list of groups and then select the users that should be assigned to that group. Press \"Update group members\" to save."
+msgstr "Fyri at koyra brúkarar í ein bólk, skalt tú velja bólkin í listanum og síðani vejla brúkararnir sum skulu vera limir í bólkinum. Trýst á \"Dagfør bólkalimir\" fyri at goyma."
+
+#: wpNamedUsers.php:482
+msgid "If you want to check which users are assigned to a group, select the group in the list and press \"Show group members\"."
+msgstr "Um tú vilt kannað hvørjir brúkarar eru limir í einum bólkið, skalt tú velja bólkin í listanum og trýst á \"Vís bólkalimir\"."
+
+#: wpNamedUsers.php:514
+msgid "Show group members"
+msgstr "Vís bólkalimir"
+
+#: wpNamedUsers.php:515
+msgid "Update group members"
+msgstr "Dagfør bólkalimir"
+
+#: wpNamedUsers.php:516
+msgid "Delete group"
+msgstr "Strikað bólk"
+
+#: wpNamedUsers.php:529
+msgid "Select the users that can access the content. If no users or groups are selected, the post / page will be public. Users with permissions to edit a post / page will be able to access the content even if they are not selected in the list."
+msgstr "Vel brúkarar sum skulu hava atgongd til at lesa tilfarið. Um ongir brúkarar eru valdir, verður greinin / síðan almenn. Brúkarar, sum hava rættindi til at rættað eina grein / síðu, hava atgongd til at lesa tilfari, líkamikið um teir eru valdir í listanum ella ei."
+
+#: wpNamedUsers.php:554
+msgid "Select the groups that can access the content. If no groups or users are selected, the post / page will be public. Users with permissions to edit a post / page will be able to access the content even if they are not selected in the list."
+msgstr "Vel bólkar sum skulu hava atgongd til at lesa tilfarið. Um ongir bólkar eru valdir, verður greinin / síðan almenn. Brúkarar, sum hava rættindi til at rættað eina grein / síðu, hava atgongd til at lesa tilfari, líkamikið um teir eru valdir í listanum ella ei."
+
